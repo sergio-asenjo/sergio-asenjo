@@ -1,6 +1,7 @@
 <!-- https://www.seekpng.com/ipng/u2w7t4u2y3u2y3u2_open-man-with-laptop-vector-png/ -->
-<img style="display: block; margin: 0 auto;" src="https://i.imgur.com/epT0VMi.png" width="
-150px">
+<p align="center">
+    <img src="https://i.imgur.com/epT0VMi.png" width="150px">
+</p>
 
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
@@ -16,23 +17,23 @@
 
 <!-- icons by Icons8 | https://icons8.com/icons -->
 ## 🚀 Languages and Tools ##
-<div style="text-align: center;">
+<p align="center">
     <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>&nbsp;
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>&nbsp;
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>&nbsp;
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>&nbsp;
-</div>
-<div style="text-align: center;">
+</p>
+<p align="center">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>&nbsp;
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;
     <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>&nbsp;
     <img src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/>&nbsp;
     <img src="https://img.icons8.com/color/48/000000/typescript.png"/>&nbsp;
-</div>
-<div style="text-align: center;">
+</p>
+<p align="center">
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>&nbsp;
     <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-</div>
-<div style="text-align: center;">
+</p>
+<p align="center">
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
-</div>
+</p>
