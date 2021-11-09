@@ -18,22 +18,23 @@
 <!-- icons by Icons8 | https://icons8.com/icons -->
 ## 🚀 Languages and Tools ##
 <p align="center">
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>&nbsp;
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
 </p>
 <p align="center">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>&nbsp;
-    <img src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>&nbsp;
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>
+    <a href="https://ionicframework.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
 </p>
 <p align="center">
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
+    <a href="https://www.microsoft.com/sql-server/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> </a>
 </p>
 <p align="center">
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <a href="github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
+
