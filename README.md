@@ -5,7 +5,7 @@
 
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<p align="center">I'm an Application Developer @ IBM Consulting, from Chile!</p>
+<p align="center">I'm a Full Stack Developer @ [APRSoftware](https://aprsoftware.cl), from Chile!</p>
 <br/>
 
 ## 🙋‍♂️ About Me ##
